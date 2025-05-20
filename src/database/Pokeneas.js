@@ -4,7 +4,7 @@ const Pokeneas = [
         name: "Pikachu",
         height: 0.4,
         ability: "Static",
-        image: "https://pokeneas-images-taller2-n.s3.us-east-1.amazonaws.com/pikachu.png",
+        image: "https://pokeneas-s3.s3.us-east-1.amazonaws.com/pikachu.png",
         quote: "The power of electricity lies not in its strength, but in its versatility"
     },
     {
@@ -12,7 +12,7 @@ const Pokeneas = [
         name: "Charizard",
         height: 1.7,
         ability: "Blaze",
-        image: "https://pokeneas-images-taller2-n.s3.us-east-1.amazonaws.com/charizard.png",
+        image: "https://pokeneas-s3.s3.us-east-1.amazonaws.com/charizard.png",
         quote: "True strength comes from the fire within, not the flames without"
     },
     {
@@ -20,7 +20,7 @@ const Pokeneas = [
         name: "Blastoise",
         height: 1.6,
         ability: "Torrent",
-        image: "https://pokeneas-images-taller2-n.s3.us-east-1.amazonaws.com/Blastoise.png",
+        image: "https://pokeneas-s3.s3.us-east-1.amazonaws.com/Blastoise.png",
         quote: "Adaptability is the strongest defense in life's battles"
     },
     {
@@ -28,7 +28,7 @@ const Pokeneas = [
         name: "Venusaur",
         height: 2.0,
         ability: "Overgrow",
-        image: "https://pokeneas-images-taller2-n.s3.us-east-1.amazonaws.com/Venusaur.png",
+        image: "https://pokeneas-s3.s3.us-east-1.amazonaws.com/Venusaur.png",
         quote: "Growth requires both sunshine and rain"
     },
     {
@@ -36,7 +36,7 @@ const Pokeneas = [
         name: "Gengar",
         height: 1.5,
         ability: "Cursed Body",
-        image: "https://pokeneas-images-taller2-n.s3.us-east-1.amazonaws.com/Gengar.png",
+        image: "https://pokeneas-s3.s3.us-east-1.amazonaws.com/Gengar.png",
         quote: "What others fear in the darkness, I call home"
     },
     {
@@ -44,7 +44,7 @@ const Pokeneas = [
         name: "Gyarados",
         height: 6.5,
         ability: "Intimidate",
-        image: "https://pokeneas-images-taller2-n.s3.us-east-1.amazonaws.com/Gyarados.png",
+        image: "https://pokeneas-s3.s3.us-east-1.amazonaws.com/Gyarados.png",
         quote: "Rage can transform you, but wisdom must guide that power"
     },
     {
@@ -60,7 +60,7 @@ const Pokeneas = [
         name: "Mewtwo",
         height: 2.0,
         ability: "Pressure",
-        image: "https://pokeneas-images-taller2-n.s3.us-east-1.amazonaws.com/Mewtwo.png",
+        image: "https://pokeneas-s3.s3.us-east-1.amazonaws.com/Mewtwo.png",
         quote: "The circumstances of one's birth are irrelevant; it is what you do with the gift of life"
     }
 ]
